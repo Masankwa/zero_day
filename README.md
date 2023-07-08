@@ -1,2 +1,1 @@
-1.This is my first virtualization
-2.I hope to become the best software engineer around
+This is a 0x00-vagrant project
